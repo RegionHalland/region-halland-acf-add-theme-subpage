@@ -1,0 +1,13 @@
+{
+    "name": "regionhalland/region-halland-acf-add-theme-subpage",
+    "description": "Plugin som skapar en tema-sida i WP-admin",
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Roland Hydén",
+            "email": "Roland.Hyden@Regionhalland.se"
+        }
+    ],
+    "require": {}
+}
