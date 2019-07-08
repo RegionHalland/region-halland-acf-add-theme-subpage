@@ -13,6 +13,14 @@ Man kan nå sidan via "Utseende/Temainställningar".
 Till denna sida kan man sedan knyta olika formulär, ex texter för cookie-notis
 
 
+## Licensmodell
+
+Denna plugin använder licensmodell GPL-3.0. Du kan läsa mer om denna licensmodell på:
+```sh
+A) Gnu.org (https://www.gnu.org/licenses/gpl-3.0.html)
+B) Wikipedia (https://sv.wikipedia.org/wiki/GNU_General_Public_License)
+```
+
 ## Installation och aktivering
 
 ```sh
@@ -55,6 +63,9 @@ OBS! Justera så att du hämtar aktuell version.
 
 
 ## Versionhistorik
+
+### 1.1.0
+- Lagt till information om licensmodell
 
 ### 1.0.0
 - Första version
