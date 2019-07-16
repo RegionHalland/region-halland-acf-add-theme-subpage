@@ -6,9 +6,9 @@
 	/*
 	Plugin Name: Region Halland ACF Add Theme Subpage
 	Description: Skapa en subsida till theme.php för extrafält
-	Version: 1.2.0
+	Version: 1.3.1
 	Author: Roland Hydén
-	License: MIT
+	License: GPL-3.0
 	Text Domain: regionhalland
 	*/
 
